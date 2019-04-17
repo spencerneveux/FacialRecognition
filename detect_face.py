@@ -6,7 +6,7 @@ def find_face_image():
 	# image to analyze/Cascade for opencv to perform analysis
 	imagePath = "YourImagePath"
   
-  # You need to download this xml file. It's necessary for the program to run
+  	# You need to download this xml file. It's necessary for the program to run
 	cascPath = "/YourPath/haarcascade_frontalface_default.xml"
 
 	# Read the image and convert to grayscale
